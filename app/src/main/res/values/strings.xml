@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Graph App</string>
+    <string name="y">y =</string>
+    <string name="enter_your_function">Enter your function</string>
+    <string name="start">Start</string>
+    <string name="enter">Enter</string>
+    <string name="pause">Pause</string>
+</resources>
